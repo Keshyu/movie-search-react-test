@@ -1,0 +1,25 @@
+Functionality:
+  ☐ Add genres
+  ☐ Search resolves every search word as separate keyword
+
+UI/UX:
+  ☐ Add MovieItem hover effect
+
+Refactoring:
+  ☐ Put componenet specific styles in appropriate files
+
+Other:
+  ☐ Add a bit more example movies
+
+Archive:
+  ✔ Add movie thumbnail placeholder @done(20-01-04 10:29) @project(UI/UX)
+  ✔ Show images from urls @done(20-01-04 10:29) @project(Other)
+  ✔ Sort movies alphabetically by default @done(20-01-01 13:17) @project(Functionality)
+  ✔ Search ignores trailing whitespace @done(20-01-01 13:17) @project(Functionality)
+  ✔ Search sort result by the closest match @done(20-01-01 13:17) @project(Functionality)
+  ✔ Design genres @done(19-12-30 19:59) @project(UI/UX)
+  ✔ Specify a better font @done(19-12-30 19:59) @project(UI/UX)
+  ✔ Turn App component functional @done(19-12-30 13:39)
+  ✔ Turn MovieList component functional @done(19-12-30 13:39)
+  ✔ Restructure application @done(19-12-30 13:19)
+  ✔ Add movie images @started(19-12-29 19:38) @done(19-12-29 20:54) @lasted(1h16m46s)
